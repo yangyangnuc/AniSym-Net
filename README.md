@@ -17,6 +17,9 @@
 ## Method 2: Using Conda
     to be updated
 
+## Data and Pretrained Model
+    to be updated
+
 # Training
 ## Method 1: Using Docker (Recommended)
     to be updated
