@@ -1,9 +1,11 @@
 # CasCat-Net
     Paper | Code 
-<img src="./images/bull003.png" alt="Image Alt Text" width="50">
-<img src="./images/arrow.gif" alt="Image Alt Text" width="50">
-<img src="./images/dear001.png" alt="Image Alt Text" width="33">
 
+<p float="left">
+<img src="./images/bull003.png" alt="Image Alt Text" width="33%">
+<img src="./images/arrow.gif" alt="Image Alt Text" width="33%">
+<img src="./images/dear001.png" alt="Image Alt Text" width="18%">
+</p>
 
 # Demos
     to be updated
