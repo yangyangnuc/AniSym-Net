@@ -1,6 +1,7 @@
 # CasCat-Net
-    Symplectic Diffeomorphisms Assisted Hybrid Field Synchronization for Occluded Non-rigid Point Clouds Registration
-    Paper | Code 
+Symplectic Diffeomorphisms Assisted Hybrid Field Synchronization for Occluded Non-rigid Point Clouds Registration
+
+Paper | Code 
 
 <p float="left">
 <img src="./images/bull003.png" alt="Image Alt Text" width="33%">
