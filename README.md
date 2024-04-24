@@ -1,5 +1,5 @@
-# CasCat-Net
-Symplectic Diffeomorphisms Assisted Hybrid Field Synchronization for Occluded Non-rigid Point Clouds Registration
+# AniSym-Net
+Symplectic Diffeomorphisms Assisted Hybrid Field Synchronization for Occluded Non-rigid Point Clouds Registration [may be changed]
 
 Paper | Code 
 
